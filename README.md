@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Adriano Teixeira João
-- 👀 I’m interested in NodeJS, Python, React and React Native
-- 🌱 I’m currently learning Swift and Go
+- 👀 I’m an experienced developer at NodeJS, Python, React, React Native and Go 
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Cool Projects in these languages
-- 📫 How to reach me -> adriano.teixeira.joao@gmail.com
+- 📫 How to reach me -> adrianoimpal@gmail.com
 
 <!---
 adriano2teixeira/adriano2teixeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
