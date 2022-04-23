@@ -1,3 +1,5 @@
+## Hi there 👋
+
 - 👋 Hi, I’m Adriano Teixeira João
 - 👀 I’m an experienced developer at NodeJS, Python, React, React Native and Go 
 - 🌱 I’m currently learning Swift
